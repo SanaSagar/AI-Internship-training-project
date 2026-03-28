@@ -119,23 +119,29 @@ Final weighted score combining all metrics
 
 ## 📁 Project Structure
 
-llm-prompt-evaluator/
-│── app.py # Streamlit UI (optional)
-│── main.py # Core execution logic
-│── evaluator/
-│ ├── metrics.py # Evaluation functions
-│ ├── scorer.py # Composite scoring logic
-│── llm/
-│ ├── ollama_client.py # LLM interaction layer
-│── data/
-│ ├── inputs.csv # Sample dataset
-│ ├── results.json # Stored outputs
-│── database/
-│ ├── db.sqlite3 # Experiment history
-│── utils/
-│ ├── helpers.py # Utility functions
-│── requirements.txt
-│── README.md
+    llm-prompt-evaluator/
+    │── app.py                 # Streamlit UI (optional)
+    │── main.py                # Core execution logic
+    │
+    ├── evaluator/
+    │   ├── metrics.py         # Evaluation functions
+    │   ├── scorer.py          # Composite scoring logic
+    │
+    ├── llm/
+    │   ├── ollama_client.py   # LLM interaction layer
+    │
+    ├── data/
+    │   ├── inputs.csv         # Sample dataset
+    │   ├── results.json       # Stored outputs
+    │
+    ├── database/
+    │   ├── db.sqlite3         # Experiment history
+    │
+    ├── utils/
+    │   ├── helpers.py         # Utility functions
+    │
+    │── requirements.txt
+    │── README.md
 
 
 ---
