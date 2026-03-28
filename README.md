@@ -47,3 +47,105 @@ The system aims to:
 - Streamlit (for visualization and interaction)  
 
 ---
+## ⚙️ System Architecture
+
+The system follows a modular pipeline architecture to ensure scalability, flexibility, and easy experimentation:
+
+### 🔹 Input Layer
+- User provides query + multiple prompt variations  
+- Can be manual input or CSV-based batch input  
+
+### 🔹 LLM Response Generator
+- Prompts are sent to local LLMs via Ollama  
+- Models (e.g., LLaMA, Mistral) generate responses  
+
+### 🔹 Evaluation Engine
+- Responses are evaluated using multiple metrics:
+  - Semantic similarity  
+  - Relevance scoring  
+  - Length/verbosity analysis  
+- Optional integration with advanced frameworks like RAGAS  
+
+### 🔹 Scoring & Ranking Module
+- Each response is assigned a score  
+- Prompts are ranked from best to worst  
+
+### 🔹 Optimization Loop
+- Low-performing prompts are refined  
+- Improved prompts are re-tested iteratively  
+
+### 🔹 Storage Layer
+- Results stored in JSON / SQLite  
+- Enables tracking of experiments over time  
+
+### 🔹 Visualization Layer (Optional)
+- Interactive dashboard using Streamlit  
+- Displays scores, comparisons, and trends  
+
+---
+
+## 🔄 Workflow
+
+1. Input a query and multiple prompt variations  
+2. Send prompts to LLM via Ollama  
+3. Collect generated responses  
+4. Evaluate responses using defined metrics  
+5. Compute final scores  
+6. Rank prompts based on performance  
+7. Refine prompts and repeat the process  
+
+---
+
+## 📊 Evaluation Metrics
+
+The system uses a combination of quantitative and qualitative metrics:
+
+### 🔹 Semantic Similarity
+Measures how close the generated output is to the expected answer  
+
+### 🔹 Relevance Score
+Checks whether the response answers the query correctly  
+
+### 🔹 Consistency Score
+Evaluates variation across multiple runs  
+
+### 🔹 Length Penalty
+Prevents overly verbose or hallucinated responses  
+
+### 🔹 Composite Score (0–100)
+Final weighted score combining all metrics  
+
+---
+
+## 📁 Project Structure
+
+llm-prompt-evaluator/
+│── app.py # Streamlit UI (optional)
+│── main.py # Core execution logic
+│── evaluator/
+│ ├── metrics.py # Evaluation functions
+│ ├── scorer.py # Composite scoring logic
+│── llm/
+│ ├── ollama_client.py # LLM interaction layer
+│── data/
+│ ├── inputs.csv # Sample dataset
+│ ├── results.json # Stored outputs
+│── database/
+│ ├── db.sqlite3 # Experiment history
+│── utils/
+│ ├── helpers.py # Utility functions
+│── requirements.txt
+│── README.md
+
+
+---
+
+## 🚀 Features
+
+- ✅ Multi-prompt testing on a single query  
+- ✅ Automated response evaluation  
+- ✅ Prompt ranking system  
+- ✅ Batch processing using CSV  
+- ✅ Iterative prompt improvement  
+- ✅ Local execution (privacy-focused)  
+- ✅ Optional visualization dashboard  
