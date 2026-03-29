@@ -51,8 +51,6 @@ Every evaluation is automatically saved to a local SQLite database. Track your s
 ### 📄 PDF Report Export
 Export any single evaluation as a clean, structured PDF report — prompt, expected output, model response, final score, and hallucination risk — with a single click.
 
-### 🏠 Grafana-Style Dashboard
-The landing page shows live metrics: total tests run, average score, hallucination rate, best model, category performance bars, recent evaluation feed, and a score trend chart — all pulled from local SQLite history.
 
 ---
 
@@ -129,7 +127,7 @@ ollama pull phi3:mini
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/llm-prompt-evaluator.git
+git clone https://github.com/SanaSagar/AI-Internship-training-project.git
 cd llm-prompt-evaluator
 
 # Create and activate virtual environment
@@ -229,11 +227,6 @@ Contributions are welcome! Please open an issue first to discuss what you'd like
 
 ---
 
-## 📃 License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
-
----
 
 <div align="center">
   <sub>Built with Streamlit + Ollama · 100% local · 100% private</sub>
