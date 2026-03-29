@@ -1,0 +1,821 @@
+"prompt","expected_output","category"
+"Answer in one short sentence. Question: What is the capital of France?","The capital of France is Paris.","Q&A"
+"Answer in one short sentence. Question: What is the capital of Japan?","The capital of Japan is Tokyo.","Q&A"
+"Answer in one short sentence. Question: What is the capital of Italy?","The capital of Italy is Rome.","Q&A"
+"Answer in one short sentence. Question: What is the capital of Brazil?","The capital of Brazil is Brasilia.","Q&A"
+"Answer in one short sentence. Question: What is the capital of Canada?","The capital of Canada is Ottawa.","Q&A"
+"Answer in one short sentence. Question: What is the capital of Australia?","The capital of Australia is Canberra.","Q&A"
+"Answer in one short sentence. Question: What is the capital of Germany?","The capital of Germany is Berlin.","Q&A"
+"Answer in one short sentence. Question: What is the capital of India?","The capital of India is New Delhi.","Q&A"
+"Answer in one short sentence. Question: What is the capital of China?","The capital of China is Beijing.","Q&A"
+"Answer in one short sentence. Question: What is the capital of Mexico?","The capital of Mexico is Mexico City.","Q&A"
+"Answer in one short sentence. Question: What is the capital of Egypt?","The capital of Egypt is Cairo.","Q&A"
+"Answer in one short sentence. Question: What is the capital of South Africa?","The capital of South Africa is Pretoria.","Q&A"
+"Answer in one short sentence. Question: What is the capital of Argentina?","The capital of Argentina is Buenos Aires.","Q&A"
+"Answer in one short sentence. Question: What is the capital of Spain?","The capital of Spain is Madrid.","Q&A"
+"Answer in one short sentence. Question: What is the capital of Russia?","The capital of Russia is Moscow.","Q&A"
+"Answer in one short sentence. Question: What is the capital of UK?","The capital of UK is London.","Q&A"
+"Answer in one short sentence. Question: What is the capital of USA?","The capital of USA is Washington D.C..","Q&A"
+"Answer in one short sentence. Question: What is the capital of South Korea?","The capital of South Korea is Seoul.","Q&A"
+"Answer in one short sentence. Question: What is the capital of Turkey?","The capital of Turkey is Ankara.","Q&A"
+"Answer in one short sentence. Question: What is the capital of Kenya?","The capital of Kenya is Nairobi.","Q&A"
+"Answer in one short sentence. Question: What is the capital of Peru?","The capital of Peru is Lima.","Q&A"
+"Answer in one short sentence. Question: What is the capital of Chile?","The capital of Chile is Santiago.","Q&A"
+"Answer in one short sentence. Question: What is the capital of Colombia?","The capital of Colombia is Bogota.","Q&A"
+"Answer in one short sentence. Question: What is the capital of Venezuela?","The capital of Venezuela is Caracas.","Q&A"
+"Answer in one short sentence. Question: What is the capital of Thailand?","The capital of Thailand is Bangkok.","Q&A"
+"Answer in one short sentence. Question: What is the capital of Vietnam?","The capital of Vietnam is Hanoi.","Q&A"
+"Answer in one short sentence. Question: What is the capital of Malaysia?","The capital of Malaysia is Kuala Lumpur.","Q&A"
+"Answer in one short sentence. Question: What is the capital of Indonesia?","The capital of Indonesia is Jakarta.","Q&A"
+"Answer in one short sentence. Question: What is the capital of Philippines?","The capital of Philippines is Manila.","Q&A"
+"Answer in one short sentence. Question: What is the capital of Pakistan?","The capital of Pakistan is Islamabad.","Q&A"
+"Answer in one short sentence. Question: What is the capital of Bangladesh?","The capital of Bangladesh is Dhaka.","Q&A"
+"Answer in one short sentence. Question: What is the capital of Iran?","The capital of Iran is Tehran.","Q&A"
+"Answer in one short sentence. Question: What is the capital of Iraq?","The capital of Iraq is Baghdad.","Q&A"
+"Answer in one short sentence. Question: What is the capital of Saudi Arabia?","The capital of Saudi Arabia is Riyadh.","Q&A"
+"Answer in one short sentence. Question: What is the capital of Sweden?","The capital of Sweden is Stockholm.","Q&A"
+"Answer in one short sentence. Question: What is the capital of Norway?","The capital of Norway is Oslo.","Q&A"
+"Answer in one short sentence. Question: What is the capital of Finland?","The capital of Finland is Helsinki.","Q&A"
+"Answer in one short sentence. Question: What is the capital of Denmark?","The capital of Denmark is Copenhagen.","Q&A"
+"Answer in one short sentence. Question: What is the capital of Poland?","The capital of Poland is Warsaw.","Q&A"
+"Answer in one short sentence. Question: What is the capital of Ukraine?","The capital of Ukraine is Kyiv.","Q&A"
+"Answer in one short sentence. Question: What is the capital of Romania?","The capital of Romania is Bucharest.","Q&A"
+"Answer in one short sentence. Question: What is the capital of Greece?","The capital of Greece is Athens.","Q&A"
+"Answer in one short sentence. Question: What is the capital of Portugal?","The capital of Portugal is Lisbon.","Q&A"
+"Answer in one short sentence. Question: What is the capital of Morocco?","The capital of Morocco is Rabat.","Q&A"
+"Answer in one short sentence. Question: What is the capital of Nigeria?","The capital of Nigeria is Abuja.","Q&A"
+"Answer in one short sentence. Question: What is the capital of Ethiopia?","The capital of Ethiopia is Addis Ababa.","Q&A"
+"Answer in one short sentence. Question: What is the capital of Tanzania?","The capital of Tanzania is Dodoma.","Q&A"
+"Answer in one short sentence. Question: What is the capital of Uganda?","The capital of Uganda is Kampala.","Q&A"
+"Answer in one short sentence. Question: What is the capital of Ghana?","The capital of Ghana is Accra.","Q&A"
+"Answer in one short sentence. Question: What is the capital of Senegal?","The capital of Senegal is Dakar.","Q&A"
+"Answer in one short sentence. Question: What is the capital of Cuba?","The capital of Cuba is Havana.","Q&A"
+"Answer in one short sentence. Question: What is the capital of Jamaica?","The capital of Jamaica is Kingston.","Q&A"
+"Answer in one short sentence. Question: What is the capital of New Zealand?","The capital of New Zealand is Wellington.","Q&A"
+"Answer in one short sentence. Question: What is the capital of Fiji?","The capital of Fiji is Suva.","Q&A"
+"Answer in one short sentence. Question: What is the capital of Ireland?","The capital of Ireland is Dublin.","Q&A"
+"Answer in one short sentence. Question: What is the capital of Iceland?","The capital of Iceland is Reykjavik.","Q&A"
+"Answer in one short sentence. Question: What is the capital of Austria?","The capital of Austria is Vienna.","Q&A"
+"Answer in one short sentence. Question: What is the capital of Switzerland?","The capital of Switzerland is Bern.","Q&A"
+"Answer in one short sentence. Question: What is the capital of Belgium?","The capital of Belgium is Brussels.","Q&A"
+"Answer in one short sentence. Question: What is the capital of Netherlands?","The capital of Netherlands is Amsterdam.","Q&A"
+"Solve this step by step. Problem: If you have 2 apples and buy 3 more, then give away 1, how many are left?","Step 1: You start with 2 apples.
+Step 2: You buy 3 more, making 5 apples.
+Step 3: You give away 1, leaving 4 apples.
+Final answer: 4","Reasoning"
+"Solve this step by step. Problem: If you have 4 apples and buy 6 more, then give away 2, how many are left?","Step 1: You start with 4 apples.
+Step 2: You buy 6 more, making 10 apples.
+Step 3: You give away 2, leaving 8 apples.
+Final answer: 8","Reasoning"
+"Solve this step by step. Problem: If you have 6 apples and buy 9 more, then give away 3, how many are left?","Step 1: You start with 6 apples.
+Step 2: You buy 9 more, making 15 apples.
+Step 3: You give away 3, leaving 12 apples.
+Final answer: 12","Reasoning"
+"Solve this step by step. Problem: If you have 8 apples and buy 12 more, then give away 4, how many are left?","Step 1: You start with 8 apples.
+Step 2: You buy 12 more, making 20 apples.
+Step 3: You give away 4, leaving 16 apples.
+Final answer: 16","Reasoning"
+"Solve this step by step. Problem: If you have 10 apples and buy 15 more, then give away 5, how many are left?","Step 1: You start with 10 apples.
+Step 2: You buy 15 more, making 25 apples.
+Step 3: You give away 5, leaving 20 apples.
+Final answer: 20","Reasoning"
+"Solve this step by step. Problem: If you have 12 apples and buy 18 more, then give away 6, how many are left?","Step 1: You start with 12 apples.
+Step 2: You buy 18 more, making 30 apples.
+Step 3: You give away 6, leaving 24 apples.
+Final answer: 24","Reasoning"
+"Solve this step by step. Problem: If you have 14 apples and buy 21 more, then give away 7, how many are left?","Step 1: You start with 14 apples.
+Step 2: You buy 21 more, making 35 apples.
+Step 3: You give away 7, leaving 28 apples.
+Final answer: 28","Reasoning"
+"Solve this step by step. Problem: If you have 16 apples and buy 24 more, then give away 8, how many are left?","Step 1: You start with 16 apples.
+Step 2: You buy 24 more, making 40 apples.
+Step 3: You give away 8, leaving 32 apples.
+Final answer: 32","Reasoning"
+"Solve this step by step. Problem: If you have 18 apples and buy 27 more, then give away 9, how many are left?","Step 1: You start with 18 apples.
+Step 2: You buy 27 more, making 45 apples.
+Step 3: You give away 9, leaving 36 apples.
+Final answer: 36","Reasoning"
+"Solve this step by step. Problem: If you have 20 apples and buy 30 more, then give away 10, how many are left?","Step 1: You start with 20 apples.
+Step 2: You buy 30 more, making 50 apples.
+Step 3: You give away 10, leaving 40 apples.
+Final answer: 40","Reasoning"
+"Solve this step by step. Problem: If you have 22 apples and buy 33 more, then give away 11, how many are left?","Step 1: You start with 22 apples.
+Step 2: You buy 33 more, making 55 apples.
+Step 3: You give away 11, leaving 44 apples.
+Final answer: 44","Reasoning"
+"Solve this step by step. Problem: If you have 24 apples and buy 36 more, then give away 12, how many are left?","Step 1: You start with 24 apples.
+Step 2: You buy 36 more, making 60 apples.
+Step 3: You give away 12, leaving 48 apples.
+Final answer: 48","Reasoning"
+"Solve this step by step. Problem: If you have 26 apples and buy 39 more, then give away 13, how many are left?","Step 1: You start with 26 apples.
+Step 2: You buy 39 more, making 65 apples.
+Step 3: You give away 13, leaving 52 apples.
+Final answer: 52","Reasoning"
+"Solve this step by step. Problem: If you have 28 apples and buy 42 more, then give away 14, how many are left?","Step 1: You start with 28 apples.
+Step 2: You buy 42 more, making 70 apples.
+Step 3: You give away 14, leaving 56 apples.
+Final answer: 56","Reasoning"
+"Solve this step by step. Problem: If you have 30 apples and buy 45 more, then give away 15, how many are left?","Step 1: You start with 30 apples.
+Step 2: You buy 45 more, making 75 apples.
+Step 3: You give away 15, leaving 60 apples.
+Final answer: 60","Reasoning"
+"Solve this step by step. Problem: If you have 32 apples and buy 48 more, then give away 16, how many are left?","Step 1: You start with 32 apples.
+Step 2: You buy 48 more, making 80 apples.
+Step 3: You give away 16, leaving 64 apples.
+Final answer: 64","Reasoning"
+"Solve this step by step. Problem: If you have 34 apples and buy 51 more, then give away 17, how many are left?","Step 1: You start with 34 apples.
+Step 2: You buy 51 more, making 85 apples.
+Step 3: You give away 17, leaving 68 apples.
+Final answer: 68","Reasoning"
+"Solve this step by step. Problem: If you have 36 apples and buy 54 more, then give away 18, how many are left?","Step 1: You start with 36 apples.
+Step 2: You buy 54 more, making 90 apples.
+Step 3: You give away 18, leaving 72 apples.
+Final answer: 72","Reasoning"
+"Solve this step by step. Problem: If you have 38 apples and buy 57 more, then give away 19, how many are left?","Step 1: You start with 38 apples.
+Step 2: You buy 57 more, making 95 apples.
+Step 3: You give away 19, leaving 76 apples.
+Final answer: 76","Reasoning"
+"Solve this step by step. Problem: If you have 40 apples and buy 60 more, then give away 20, how many are left?","Step 1: You start with 40 apples.
+Step 2: You buy 60 more, making 100 apples.
+Step 3: You give away 20, leaving 80 apples.
+Final answer: 80","Reasoning"
+"Solve this step by step. Problem: If you have 42 apples and buy 63 more, then give away 21, how many are left?","Step 1: You start with 42 apples.
+Step 2: You buy 63 more, making 105 apples.
+Step 3: You give away 21, leaving 84 apples.
+Final answer: 84","Reasoning"
+"Solve this step by step. Problem: If you have 44 apples and buy 66 more, then give away 22, how many are left?","Step 1: You start with 44 apples.
+Step 2: You buy 66 more, making 110 apples.
+Step 3: You give away 22, leaving 88 apples.
+Final answer: 88","Reasoning"
+"Solve this step by step. Problem: If you have 46 apples and buy 69 more, then give away 23, how many are left?","Step 1: You start with 46 apples.
+Step 2: You buy 69 more, making 115 apples.
+Step 3: You give away 23, leaving 92 apples.
+Final answer: 92","Reasoning"
+"Solve this step by step. Problem: If you have 48 apples and buy 72 more, then give away 24, how many are left?","Step 1: You start with 48 apples.
+Step 2: You buy 72 more, making 120 apples.
+Step 3: You give away 24, leaving 96 apples.
+Final answer: 96","Reasoning"
+"Solve this step by step. Problem: If you have 50 apples and buy 75 more, then give away 25, how many are left?","Step 1: You start with 50 apples.
+Step 2: You buy 75 more, making 125 apples.
+Step 3: You give away 25, leaving 100 apples.
+Final answer: 100","Reasoning"
+"Solve this step by step. Problem: If you have 52 apples and buy 78 more, then give away 26, how many are left?","Step 1: You start with 52 apples.
+Step 2: You buy 78 more, making 130 apples.
+Step 3: You give away 26, leaving 104 apples.
+Final answer: 104","Reasoning"
+"Solve this step by step. Problem: If you have 54 apples and buy 81 more, then give away 27, how many are left?","Step 1: You start with 54 apples.
+Step 2: You buy 81 more, making 135 apples.
+Step 3: You give away 27, leaving 108 apples.
+Final answer: 108","Reasoning"
+"Solve this step by step. Problem: If you have 56 apples and buy 84 more, then give away 28, how many are left?","Step 1: You start with 56 apples.
+Step 2: You buy 84 more, making 140 apples.
+Step 3: You give away 28, leaving 112 apples.
+Final answer: 112","Reasoning"
+"Solve this step by step. Problem: If you have 58 apples and buy 87 more, then give away 29, how many are left?","Step 1: You start with 58 apples.
+Step 2: You buy 87 more, making 145 apples.
+Step 3: You give away 29, leaving 116 apples.
+Final answer: 116","Reasoning"
+"Solve this step by step. Problem: If you have 60 apples and buy 90 more, then give away 30, how many are left?","Step 1: You start with 60 apples.
+Step 2: You buy 90 more, making 150 apples.
+Step 3: You give away 30, leaving 120 apples.
+Final answer: 120","Reasoning"
+"Solve this step by step. Problem: If you have 62 apples and buy 93 more, then give away 31, how many are left?","Step 1: You start with 62 apples.
+Step 2: You buy 93 more, making 155 apples.
+Step 3: You give away 31, leaving 124 apples.
+Final answer: 124","Reasoning"
+"Solve this step by step. Problem: If you have 64 apples and buy 96 more, then give away 32, how many are left?","Step 1: You start with 64 apples.
+Step 2: You buy 96 more, making 160 apples.
+Step 3: You give away 32, leaving 128 apples.
+Final answer: 128","Reasoning"
+"Solve this step by step. Problem: If you have 66 apples and buy 99 more, then give away 33, how many are left?","Step 1: You start with 66 apples.
+Step 2: You buy 99 more, making 165 apples.
+Step 3: You give away 33, leaving 132 apples.
+Final answer: 132","Reasoning"
+"Solve this step by step. Problem: If you have 68 apples and buy 102 more, then give away 34, how many are left?","Step 1: You start with 68 apples.
+Step 2: You buy 102 more, making 170 apples.
+Step 3: You give away 34, leaving 136 apples.
+Final answer: 136","Reasoning"
+"Solve this step by step. Problem: If you have 70 apples and buy 105 more, then give away 35, how many are left?","Step 1: You start with 70 apples.
+Step 2: You buy 105 more, making 175 apples.
+Step 3: You give away 35, leaving 140 apples.
+Final answer: 140","Reasoning"
+"Solve this step by step. Problem: If you have 72 apples and buy 108 more, then give away 36, how many are left?","Step 1: You start with 72 apples.
+Step 2: You buy 108 more, making 180 apples.
+Step 3: You give away 36, leaving 144 apples.
+Final answer: 144","Reasoning"
+"Solve this step by step. Problem: If you have 74 apples and buy 111 more, then give away 37, how many are left?","Step 1: You start with 74 apples.
+Step 2: You buy 111 more, making 185 apples.
+Step 3: You give away 37, leaving 148 apples.
+Final answer: 148","Reasoning"
+"Solve this step by step. Problem: If you have 76 apples and buy 114 more, then give away 38, how many are left?","Step 1: You start with 76 apples.
+Step 2: You buy 114 more, making 190 apples.
+Step 3: You give away 38, leaving 152 apples.
+Final answer: 152","Reasoning"
+"Solve this step by step. Problem: If you have 78 apples and buy 117 more, then give away 39, how many are left?","Step 1: You start with 78 apples.
+Step 2: You buy 117 more, making 195 apples.
+Step 3: You give away 39, leaving 156 apples.
+Final answer: 156","Reasoning"
+"Solve this step by step. Problem: If you have 80 apples and buy 120 more, then give away 40, how many are left?","Step 1: You start with 80 apples.
+Step 2: You buy 120 more, making 200 apples.
+Step 3: You give away 40, leaving 160 apples.
+Final answer: 160","Reasoning"
+"Solve this step by step. Problem: If you have 82 apples and buy 123 more, then give away 41, how many are left?","Step 1: You start with 82 apples.
+Step 2: You buy 123 more, making 205 apples.
+Step 3: You give away 41, leaving 164 apples.
+Final answer: 164","Reasoning"
+"Solve this step by step. Problem: If you have 84 apples and buy 126 more, then give away 42, how many are left?","Step 1: You start with 84 apples.
+Step 2: You buy 126 more, making 210 apples.
+Step 3: You give away 42, leaving 168 apples.
+Final answer: 168","Reasoning"
+"Solve this step by step. Problem: If you have 86 apples and buy 129 more, then give away 43, how many are left?","Step 1: You start with 86 apples.
+Step 2: You buy 129 more, making 215 apples.
+Step 3: You give away 43, leaving 172 apples.
+Final answer: 172","Reasoning"
+"Solve this step by step. Problem: If you have 88 apples and buy 132 more, then give away 44, how many are left?","Step 1: You start with 88 apples.
+Step 2: You buy 132 more, making 220 apples.
+Step 3: You give away 44, leaving 176 apples.
+Final answer: 176","Reasoning"
+"Solve this step by step. Problem: If you have 90 apples and buy 135 more, then give away 45, how many are left?","Step 1: You start with 90 apples.
+Step 2: You buy 135 more, making 225 apples.
+Step 3: You give away 45, leaving 180 apples.
+Final answer: 180","Reasoning"
+"Solve this step by step. Problem: If you have 92 apples and buy 138 more, then give away 46, how many are left?","Step 1: You start with 92 apples.
+Step 2: You buy 138 more, making 230 apples.
+Step 3: You give away 46, leaving 184 apples.
+Final answer: 184","Reasoning"
+"Solve this step by step. Problem: If you have 94 apples and buy 141 more, then give away 47, how many are left?","Step 1: You start with 94 apples.
+Step 2: You buy 141 more, making 235 apples.
+Step 3: You give away 47, leaving 188 apples.
+Final answer: 188","Reasoning"
+"Solve this step by step. Problem: If you have 96 apples and buy 144 more, then give away 48, how many are left?","Step 1: You start with 96 apples.
+Step 2: You buy 144 more, making 240 apples.
+Step 3: You give away 48, leaving 192 apples.
+Final answer: 192","Reasoning"
+"Solve this step by step. Problem: If you have 98 apples and buy 147 more, then give away 49, how many are left?","Step 1: You start with 98 apples.
+Step 2: You buy 147 more, making 245 apples.
+Step 3: You give away 49, leaving 196 apples.
+Final answer: 196","Reasoning"
+"Solve this step by step. Problem: If you have 100 apples and buy 150 more, then give away 50, how many are left?","Step 1: You start with 100 apples.
+Step 2: You buy 150 more, making 250 apples.
+Step 3: You give away 50, leaving 200 apples.
+Final answer: 200","Reasoning"
+"Solve this step by step. Problem: If you have 102 apples and buy 153 more, then give away 51, how many are left?","Step 1: You start with 102 apples.
+Step 2: You buy 153 more, making 255 apples.
+Step 3: You give away 51, leaving 204 apples.
+Final answer: 204","Reasoning"
+"Solve this step by step. Problem: If you have 104 apples and buy 156 more, then give away 52, how many are left?","Step 1: You start with 104 apples.
+Step 2: You buy 156 more, making 260 apples.
+Step 3: You give away 52, leaving 208 apples.
+Final answer: 208","Reasoning"
+"Solve this step by step. Problem: If you have 106 apples and buy 159 more, then give away 53, how many are left?","Step 1: You start with 106 apples.
+Step 2: You buy 159 more, making 265 apples.
+Step 3: You give away 53, leaving 212 apples.
+Final answer: 212","Reasoning"
+"Solve this step by step. Problem: If you have 108 apples and buy 162 more, then give away 54, how many are left?","Step 1: You start with 108 apples.
+Step 2: You buy 162 more, making 270 apples.
+Step 3: You give away 54, leaving 216 apples.
+Final answer: 216","Reasoning"
+"Solve this step by step. Problem: If you have 110 apples and buy 165 more, then give away 55, how many are left?","Step 1: You start with 110 apples.
+Step 2: You buy 165 more, making 275 apples.
+Step 3: You give away 55, leaving 220 apples.
+Final answer: 220","Reasoning"
+"Solve this step by step. Problem: If you have 112 apples and buy 168 more, then give away 56, how many are left?","Step 1: You start with 112 apples.
+Step 2: You buy 168 more, making 280 apples.
+Step 3: You give away 56, leaving 224 apples.
+Final answer: 224","Reasoning"
+"Solve this step by step. Problem: If you have 114 apples and buy 171 more, then give away 57, how many are left?","Step 1: You start with 114 apples.
+Step 2: You buy 171 more, making 285 apples.
+Step 3: You give away 57, leaving 228 apples.
+Final answer: 228","Reasoning"
+"Solve this step by step. Problem: If you have 116 apples and buy 174 more, then give away 58, how many are left?","Step 1: You start with 116 apples.
+Step 2: You buy 174 more, making 290 apples.
+Step 3: You give away 58, leaving 232 apples.
+Final answer: 232","Reasoning"
+"Solve this step by step. Problem: If you have 118 apples and buy 177 more, then give away 59, how many are left?","Step 1: You start with 118 apples.
+Step 2: You buy 177 more, making 295 apples.
+Step 3: You give away 59, leaving 236 apples.
+Final answer: 236","Reasoning"
+"Solve this step by step. Problem: If you have 120 apples and buy 180 more, then give away 60, how many are left?","Step 1: You start with 120 apples.
+Step 2: You buy 180 more, making 300 apples.
+Step 3: You give away 60, leaving 240 apples.
+Final answer: 240","Reasoning"
+"Summarize the following text in 1-2 sentences.
+
+Text: The ocean is a fascinating place that covers most of the earth. It has been studied for 10 years and is considered very important. Many researchers believe that The ocean will eventually be preserved.","This text explains that The ocean has been studied extensively because it covers most of the earth. Researchers believe it will be preserved in the future.","Summarization"
+"Summarize the following text in 1-2 sentences.
+
+Text: The ocean is a fascinating place that covers most of the earth. It has been studied for 11 years and is considered very important. Many researchers believe that The ocean will eventually be explored.","This text explains that The ocean has been studied extensively because it covers most of the earth. Researchers believe it will be explored in the future.","Summarization"
+"Summarize the following text in 1-2 sentences.
+
+Text: The ocean is a fascinating place that covers most of the earth. It has been studied for 12 years and is considered very important. Many researchers believe that The ocean will eventually be protected.","This text explains that The ocean has been studied extensively because it covers most of the earth. Researchers believe it will be protected in the future.","Summarization"
+"Summarize the following text in 1-2 sentences.
+
+Text: The ocean is a fascinating place that covers most of the earth. It has been studied for 13 years and is considered very important. Many researchers believe that The ocean will eventually be studied.","This text explains that The ocean has been studied extensively because it covers most of the earth. Researchers believe it will be studied in the future.","Summarization"
+"Summarize the following text in 1-2 sentences.
+
+Text: The ocean is a fascinating place that covers most of the earth. It has been studied for 14 years and is considered very important. Many researchers believe that The ocean will eventually be visited.","This text explains that The ocean has been studied extensively because it covers most of the earth. Researchers believe it will be visited in the future.","Summarization"
+"Summarize the following text in 1-2 sentences.
+
+Text: The ocean is a fascinating place that covers most of the earth. It has been studied for 15 years and is considered very important. Many researchers believe that The ocean will eventually be developed.","This text explains that The ocean has been studied extensively because it covers most of the earth. Researchers believe it will be developed in the future.","Summarization"
+"Summarize the following text in 1-2 sentences.
+
+Text: The ocean is a fascinating place that covers most of the earth. It has been studied for 16 years and is considered very important. Many researchers believe that The ocean will eventually be abandoned.","This text explains that The ocean has been studied extensively because it covers most of the earth. Researchers believe it will be abandoned in the future.","Summarization"
+"Summarize the following text in 1-2 sentences.
+
+Text: The ocean is a fascinating place that covers most of the earth. It has been studied for 17 years and is considered very important. Many researchers believe that The ocean will eventually be cleaned.","This text explains that The ocean has been studied extensively because it covers most of the earth. Researchers believe it will be cleaned in the future.","Summarization"
+"Summarize the following text in 1-2 sentences.
+
+Text: The ocean is a fascinating place that covers most of the earth. It has been studied for 18 years and is considered very important. Many researchers believe that The ocean will eventually be monitored.","This text explains that The ocean has been studied extensively because it covers most of the earth. Researchers believe it will be monitored in the future.","Summarization"
+"Summarize the following text in 1-2 sentences.
+
+Text: The ocean is a fascinating place that covers most of the earth. It has been studied for 19 years and is considered very important. Many researchers believe that The ocean will eventually be cherished.","This text explains that The ocean has been studied extensively because it covers most of the earth. Researchers believe it will be cherished in the future.","Summarization"
+"Summarize the following text in 1-2 sentences.
+
+Text: The ocean is a fascinating place that is home to many animals. It has been studied for 20 years and is considered very important. Many researchers believe that The ocean will eventually be preserved.","This text explains that The ocean has been studied extensively because it is home to many animals. Researchers believe it will be preserved in the future.","Summarization"
+"Summarize the following text in 1-2 sentences.
+
+Text: The ocean is a fascinating place that is home to many animals. It has been studied for 21 years and is considered very important. Many researchers believe that The ocean will eventually be explored.","This text explains that The ocean has been studied extensively because it is home to many animals. Researchers believe it will be explored in the future.","Summarization"
+"Summarize the following text in 1-2 sentences.
+
+Text: The ocean is a fascinating place that is home to many animals. It has been studied for 22 years and is considered very important. Many researchers believe that The ocean will eventually be protected.","This text explains that The ocean has been studied extensively because it is home to many animals. Researchers believe it will be protected in the future.","Summarization"
+"Summarize the following text in 1-2 sentences.
+
+Text: The ocean is a fascinating place that is home to many animals. It has been studied for 23 years and is considered very important. Many researchers believe that The ocean will eventually be studied.","This text explains that The ocean has been studied extensively because it is home to many animals. Researchers believe it will be studied in the future.","Summarization"
+"Summarize the following text in 1-2 sentences.
+
+Text: The ocean is a fascinating place that is home to many animals. It has been studied for 24 years and is considered very important. Many researchers believe that The ocean will eventually be visited.","This text explains that The ocean has been studied extensively because it is home to many animals. Researchers believe it will be visited in the future.","Summarization"
+"Summarize the following text in 1-2 sentences.
+
+Text: The ocean is a fascinating place that is home to many animals. It has been studied for 25 years and is considered very important. Many researchers believe that The ocean will eventually be developed.","This text explains that The ocean has been studied extensively because it is home to many animals. Researchers believe it will be developed in the future.","Summarization"
+"Summarize the following text in 1-2 sentences.
+
+Text: The ocean is a fascinating place that is home to many animals. It has been studied for 26 years and is considered very important. Many researchers believe that The ocean will eventually be abandoned.","This text explains that The ocean has been studied extensively because it is home to many animals. Researchers believe it will be abandoned in the future.","Summarization"
+"Summarize the following text in 1-2 sentences.
+
+Text: The ocean is a fascinating place that is home to many animals. It has been studied for 27 years and is considered very important. Many researchers believe that The ocean will eventually be cleaned.","This text explains that The ocean has been studied extensively because it is home to many animals. Researchers believe it will be cleaned in the future.","Summarization"
+"Summarize the following text in 1-2 sentences.
+
+Text: The ocean is a fascinating place that is home to many animals. It has been studied for 28 years and is considered very important. Many researchers believe that The ocean will eventually be monitored.","This text explains that The ocean has been studied extensively because it is home to many animals. Researchers believe it will be monitored in the future.","Summarization"
+"Summarize the following text in 1-2 sentences.
+
+Text: The ocean is a fascinating place that is home to many animals. It has been studied for 29 years and is considered very important. Many researchers believe that The ocean will eventually be cherished.","This text explains that The ocean has been studied extensively because it is home to many animals. Researchers believe it will be cherished in the future.","Summarization"
+"Summarize the following text in 1-2 sentences.
+
+Text: The ocean is a fascinating place that is vast and unknown. It has been studied for 30 years and is considered very important. Many researchers believe that The ocean will eventually be preserved.","This text explains that The ocean has been studied extensively because it is vast and unknown. Researchers believe it will be preserved in the future.","Summarization"
+"Summarize the following text in 1-2 sentences.
+
+Text: The ocean is a fascinating place that is vast and unknown. It has been studied for 31 years and is considered very important. Many researchers believe that The ocean will eventually be explored.","This text explains that The ocean has been studied extensively because it is vast and unknown. Researchers believe it will be explored in the future.","Summarization"
+"Summarize the following text in 1-2 sentences.
+
+Text: The ocean is a fascinating place that is vast and unknown. It has been studied for 32 years and is considered very important. Many researchers believe that The ocean will eventually be protected.","This text explains that The ocean has been studied extensively because it is vast and unknown. Researchers believe it will be protected in the future.","Summarization"
+"Summarize the following text in 1-2 sentences.
+
+Text: The ocean is a fascinating place that is vast and unknown. It has been studied for 33 years and is considered very important. Many researchers believe that The ocean will eventually be studied.","This text explains that The ocean has been studied extensively because it is vast and unknown. Researchers believe it will be studied in the future.","Summarization"
+"Summarize the following text in 1-2 sentences.
+
+Text: The ocean is a fascinating place that is vast and unknown. It has been studied for 34 years and is considered very important. Many researchers believe that The ocean will eventually be visited.","This text explains that The ocean has been studied extensively because it is vast and unknown. Researchers believe it will be visited in the future.","Summarization"
+"Summarize the following text in 1-2 sentences.
+
+Text: The ocean is a fascinating place that is vast and unknown. It has been studied for 35 years and is considered very important. Many researchers believe that The ocean will eventually be developed.","This text explains that The ocean has been studied extensively because it is vast and unknown. Researchers believe it will be developed in the future.","Summarization"
+"Summarize the following text in 1-2 sentences.
+
+Text: The ocean is a fascinating place that is vast and unknown. It has been studied for 36 years and is considered very important. Many researchers believe that The ocean will eventually be abandoned.","This text explains that The ocean has been studied extensively because it is vast and unknown. Researchers believe it will be abandoned in the future.","Summarization"
+"Summarize the following text in 1-2 sentences.
+
+Text: The ocean is a fascinating place that is vast and unknown. It has been studied for 37 years and is considered very important. Many researchers believe that The ocean will eventually be cleaned.","This text explains that The ocean has been studied extensively because it is vast and unknown. Researchers believe it will be cleaned in the future.","Summarization"
+"Summarize the following text in 1-2 sentences.
+
+Text: The ocean is a fascinating place that is vast and unknown. It has been studied for 38 years and is considered very important. Many researchers believe that The ocean will eventually be monitored.","This text explains that The ocean has been studied extensively because it is vast and unknown. Researchers believe it will be monitored in the future.","Summarization"
+"Summarize the following text in 1-2 sentences.
+
+Text: The ocean is a fascinating place that is vast and unknown. It has been studied for 39 years and is considered very important. Many researchers believe that The ocean will eventually be cherished.","This text explains that The ocean has been studied extensively because it is vast and unknown. Researchers believe it will be cherished in the future.","Summarization"
+"Summarize the following text in 1-2 sentences.
+
+Text: The ocean is a fascinating place that is very dry. It has been studied for 40 years and is considered very important. Many researchers believe that The ocean will eventually be preserved.","This text explains that The ocean has been studied extensively because it is very dry. Researchers believe it will be preserved in the future.","Summarization"
+"Summarize the following text in 1-2 sentences.
+
+Text: The ocean is a fascinating place that is very dry. It has been studied for 41 years and is considered very important. Many researchers believe that The ocean will eventually be explored.","This text explains that The ocean has been studied extensively because it is very dry. Researchers believe it will be explored in the future.","Summarization"
+"Summarize the following text in 1-2 sentences.
+
+Text: The ocean is a fascinating place that is very dry. It has been studied for 42 years and is considered very important. Many researchers believe that The ocean will eventually be protected.","This text explains that The ocean has been studied extensively because it is very dry. Researchers believe it will be protected in the future.","Summarization"
+"Summarize the following text in 1-2 sentences.
+
+Text: The ocean is a fascinating place that is very dry. It has been studied for 43 years and is considered very important. Many researchers believe that The ocean will eventually be studied.","This text explains that The ocean has been studied extensively because it is very dry. Researchers believe it will be studied in the future.","Summarization"
+"Summarize the following text in 1-2 sentences.
+
+Text: The ocean is a fascinating place that is very dry. It has been studied for 44 years and is considered very important. Many researchers believe that The ocean will eventually be visited.","This text explains that The ocean has been studied extensively because it is very dry. Researchers believe it will be visited in the future.","Summarization"
+"Summarize the following text in 1-2 sentences.
+
+Text: The ocean is a fascinating place that is very dry. It has been studied for 45 years and is considered very important. Many researchers believe that The ocean will eventually be developed.","This text explains that The ocean has been studied extensively because it is very dry. Researchers believe it will be developed in the future.","Summarization"
+"Summarize the following text in 1-2 sentences.
+
+Text: The ocean is a fascinating place that is very dry. It has been studied for 46 years and is considered very important. Many researchers believe that The ocean will eventually be abandoned.","This text explains that The ocean has been studied extensively because it is very dry. Researchers believe it will be abandoned in the future.","Summarization"
+"Summarize the following text in 1-2 sentences.
+
+Text: The ocean is a fascinating place that is very dry. It has been studied for 47 years and is considered very important. Many researchers believe that The ocean will eventually be cleaned.","This text explains that The ocean has been studied extensively because it is very dry. Researchers believe it will be cleaned in the future.","Summarization"
+"Summarize the following text in 1-2 sentences.
+
+Text: The ocean is a fascinating place that is very dry. It has been studied for 48 years and is considered very important. Many researchers believe that The ocean will eventually be monitored.","This text explains that The ocean has been studied extensively because it is very dry. Researchers believe it will be monitored in the future.","Summarization"
+"Summarize the following text in 1-2 sentences.
+
+Text: The ocean is a fascinating place that is very dry. It has been studied for 49 years and is considered very important. Many researchers believe that The ocean will eventually be cherished.","This text explains that The ocean has been studied extensively because it is very dry. Researchers believe it will be cherished in the future.","Summarization"
+"Summarize the following text in 1-2 sentences.
+
+Text: The ocean is a fascinating place that is very tall. It has been studied for 50 years and is considered very important. Many researchers believe that The ocean will eventually be preserved.","This text explains that The ocean has been studied extensively because it is very tall. Researchers believe it will be preserved in the future.","Summarization"
+"Summarize the following text in 1-2 sentences.
+
+Text: The ocean is a fascinating place that is very tall. It has been studied for 51 years and is considered very important. Many researchers believe that The ocean will eventually be explored.","This text explains that The ocean has been studied extensively because it is very tall. Researchers believe it will be explored in the future.","Summarization"
+"Summarize the following text in 1-2 sentences.
+
+Text: The ocean is a fascinating place that is very tall. It has been studied for 52 years and is considered very important. Many researchers believe that The ocean will eventually be protected.","This text explains that The ocean has been studied extensively because it is very tall. Researchers believe it will be protected in the future.","Summarization"
+"Summarize the following text in 1-2 sentences.
+
+Text: The ocean is a fascinating place that is very tall. It has been studied for 53 years and is considered very important. Many researchers believe that The ocean will eventually be studied.","This text explains that The ocean has been studied extensively because it is very tall. Researchers believe it will be studied in the future.","Summarization"
+"Summarize the following text in 1-2 sentences.
+
+Text: The ocean is a fascinating place that is very tall. It has been studied for 54 years and is considered very important. Many researchers believe that The ocean will eventually be visited.","This text explains that The ocean has been studied extensively because it is very tall. Researchers believe it will be visited in the future.","Summarization"
+"Summarize the following text in 1-2 sentences.
+
+Text: The ocean is a fascinating place that is very tall. It has been studied for 55 years and is considered very important. Many researchers believe that The ocean will eventually be developed.","This text explains that The ocean has been studied extensively because it is very tall. Researchers believe it will be developed in the future.","Summarization"
+"Summarize the following text in 1-2 sentences.
+
+Text: The ocean is a fascinating place that is very tall. It has been studied for 56 years and is considered very important. Many researchers believe that The ocean will eventually be abandoned.","This text explains that The ocean has been studied extensively because it is very tall. Researchers believe it will be abandoned in the future.","Summarization"
+"Summarize the following text in 1-2 sentences.
+
+Text: The ocean is a fascinating place that is very tall. It has been studied for 57 years and is considered very important. Many researchers believe that The ocean will eventually be cleaned.","This text explains that The ocean has been studied extensively because it is very tall. Researchers believe it will be cleaned in the future.","Summarization"
+"Summarize the following text in 1-2 sentences.
+
+Text: The ocean is a fascinating place that is very tall. It has been studied for 58 years and is considered very important. Many researchers believe that The ocean will eventually be monitored.","This text explains that The ocean has been studied extensively because it is very tall. Researchers believe it will be monitored in the future.","Summarization"
+"Summarize the following text in 1-2 sentences.
+
+Text: The ocean is a fascinating place that is very tall. It has been studied for 59 years and is considered very important. Many researchers believe that The ocean will eventually be cherished.","This text explains that The ocean has been studied extensively because it is very tall. Researchers believe it will be cherished in the future.","Summarization"
+"Summarize the following text in 1-2 sentences.
+
+Text: The ocean is a fascinating place that is very crowded. It has been studied for 60 years and is considered very important. Many researchers believe that The ocean will eventually be preserved.","This text explains that The ocean has been studied extensively because it is very crowded. Researchers believe it will be preserved in the future.","Summarization"
+"Summarize the following text in 1-2 sentences.
+
+Text: The ocean is a fascinating place that is very crowded. It has been studied for 61 years and is considered very important. Many researchers believe that The ocean will eventually be explored.","This text explains that The ocean has been studied extensively because it is very crowded. Researchers believe it will be explored in the future.","Summarization"
+"Summarize the following text in 1-2 sentences.
+
+Text: The ocean is a fascinating place that is very crowded. It has been studied for 62 years and is considered very important. Many researchers believe that The ocean will eventually be protected.","This text explains that The ocean has been studied extensively because it is very crowded. Researchers believe it will be protected in the future.","Summarization"
+"Summarize the following text in 1-2 sentences.
+
+Text: The ocean is a fascinating place that is very crowded. It has been studied for 63 years and is considered very important. Many researchers believe that The ocean will eventually be studied.","This text explains that The ocean has been studied extensively because it is very crowded. Researchers believe it will be studied in the future.","Summarization"
+"Summarize the following text in 1-2 sentences.
+
+Text: The ocean is a fascinating place that is very crowded. It has been studied for 64 years and is considered very important. Many researchers believe that The ocean will eventually be visited.","This text explains that The ocean has been studied extensively because it is very crowded. Researchers believe it will be visited in the future.","Summarization"
+"Summarize the following text in 1-2 sentences.
+
+Text: The ocean is a fascinating place that is very crowded. It has been studied for 65 years and is considered very important. Many researchers believe that The ocean will eventually be developed.","This text explains that The ocean has been studied extensively because it is very crowded. Researchers believe it will be developed in the future.","Summarization"
+"Summarize the following text in 1-2 sentences.
+
+Text: The ocean is a fascinating place that is very crowded. It has been studied for 66 years and is considered very important. Many researchers believe that The ocean will eventually be abandoned.","This text explains that The ocean has been studied extensively because it is very crowded. Researchers believe it will be abandoned in the future.","Summarization"
+"Summarize the following text in 1-2 sentences.
+
+Text: The ocean is a fascinating place that is very crowded. It has been studied for 67 years and is considered very important. Many researchers believe that The ocean will eventually be cleaned.","This text explains that The ocean has been studied extensively because it is very crowded. Researchers believe it will be cleaned in the future.","Summarization"
+"Summarize the following text in 1-2 sentences.
+
+Text: The ocean is a fascinating place that is very crowded. It has been studied for 68 years and is considered very important. Many researchers believe that The ocean will eventually be monitored.","This text explains that The ocean has been studied extensively because it is very crowded. Researchers believe it will be monitored in the future.","Summarization"
+"Summarize the following text in 1-2 sentences.
+
+Text: The ocean is a fascinating place that is very crowded. It has been studied for 69 years and is considered very important. Many researchers believe that The ocean will eventually be cherished.","This text explains that The ocean has been studied extensively because it is very crowded. Researchers believe it will be cherished in the future.","Summarization"
+"Write a Python function that multiplies a number by 1 and adds 11.","def math_op_1(n):
+    return n * 1 + 11","Coding"
+"Write a Python function that multiplies a number by 2 and adds 12.","def math_op_2(n):
+    return n * 2 + 12","Coding"
+"Write a Python function that multiplies a number by 3 and adds 13.","def math_op_3(n):
+    return n * 3 + 13","Coding"
+"Write a Python function that multiplies a number by 4 and adds 14.","def math_op_4(n):
+    return n * 4 + 14","Coding"
+"Write a Python function that multiplies a number by 5 and adds 15.","def math_op_5(n):
+    return n * 5 + 15","Coding"
+"Write a Python function that multiplies a number by 6 and adds 16.","def math_op_6(n):
+    return n * 6 + 16","Coding"
+"Write a Python function that multiplies a number by 7 and adds 17.","def math_op_7(n):
+    return n * 7 + 17","Coding"
+"Write a Python function that multiplies a number by 8 and adds 18.","def math_op_8(n):
+    return n * 8 + 18","Coding"
+"Write a Python function that multiplies a number by 9 and adds 19.","def math_op_9(n):
+    return n * 9 + 19","Coding"
+"Write a Python function that multiplies a number by 10 and adds 20.","def math_op_10(n):
+    return n * 10 + 20","Coding"
+"Write a Python function that multiplies a number by 11 and adds 21.","def math_op_11(n):
+    return n * 11 + 21","Coding"
+"Write a Python function that multiplies a number by 12 and adds 22.","def math_op_12(n):
+    return n * 12 + 22","Coding"
+"Write a Python function that multiplies a number by 13 and adds 23.","def math_op_13(n):
+    return n * 13 + 23","Coding"
+"Write a Python function that multiplies a number by 14 and adds 24.","def math_op_14(n):
+    return n * 14 + 24","Coding"
+"Write a Python function that multiplies a number by 15 and adds 25.","def math_op_15(n):
+    return n * 15 + 25","Coding"
+"Write a Python function that multiplies a number by 16 and adds 26.","def math_op_16(n):
+    return n * 16 + 26","Coding"
+"Write a Python function that multiplies a number by 17 and adds 27.","def math_op_17(n):
+    return n * 17 + 27","Coding"
+"Write a Python function that multiplies a number by 18 and adds 28.","def math_op_18(n):
+    return n * 18 + 28","Coding"
+"Write a Python function that multiplies a number by 19 and adds 29.","def math_op_19(n):
+    return n * 19 + 29","Coding"
+"Write a Python function that multiplies a number by 20 and adds 30.","def math_op_20(n):
+    return n * 20 + 30","Coding"
+"Write a Python function that multiplies a number by 21 and adds 31.","def math_op_21(n):
+    return n * 21 + 31","Coding"
+"Write a Python function that multiplies a number by 22 and adds 32.","def math_op_22(n):
+    return n * 22 + 32","Coding"
+"Write a Python function that multiplies a number by 23 and adds 33.","def math_op_23(n):
+    return n * 23 + 33","Coding"
+"Write a Python function that multiplies a number by 24 and adds 34.","def math_op_24(n):
+    return n * 24 + 34","Coding"
+"Write a Python function that multiplies a number by 25 and adds 35.","def math_op_25(n):
+    return n * 25 + 35","Coding"
+"Write a Python function that multiplies a number by 26 and adds 36.","def math_op_26(n):
+    return n * 26 + 36","Coding"
+"Write a Python function that multiplies a number by 27 and adds 37.","def math_op_27(n):
+    return n * 27 + 37","Coding"
+"Write a Python function that multiplies a number by 28 and adds 38.","def math_op_28(n):
+    return n * 28 + 38","Coding"
+"Write a Python function that multiplies a number by 29 and adds 39.","def math_op_29(n):
+    return n * 29 + 39","Coding"
+"Write a Python function that multiplies a number by 30 and adds 40.","def math_op_30(n):
+    return n * 30 + 40","Coding"
+"Write a Python function that multiplies a number by 31 and adds 41.","def math_op_31(n):
+    return n * 31 + 41","Coding"
+"Write a Python function that multiplies a number by 32 and adds 42.","def math_op_32(n):
+    return n * 32 + 42","Coding"
+"Write a Python function that multiplies a number by 33 and adds 43.","def math_op_33(n):
+    return n * 33 + 43","Coding"
+"Write a Python function that multiplies a number by 34 and adds 44.","def math_op_34(n):
+    return n * 34 + 44","Coding"
+"Write a Python function that multiplies a number by 35 and adds 45.","def math_op_35(n):
+    return n * 35 + 45","Coding"
+"Write a Python function that multiplies a number by 36 and adds 46.","def math_op_36(n):
+    return n * 36 + 46","Coding"
+"Write a Python function that multiplies a number by 37 and adds 47.","def math_op_37(n):
+    return n * 37 + 47","Coding"
+"Write a Python function that multiplies a number by 38 and adds 48.","def math_op_38(n):
+    return n * 38 + 48","Coding"
+"Write a Python function that multiplies a number by 39 and adds 49.","def math_op_39(n):
+    return n * 39 + 49","Coding"
+"Write a Python function that multiplies a number by 40 and adds 50.","def math_op_40(n):
+    return n * 40 + 50","Coding"
+"Fix the bug in this Python code:
+def return_num_1():
+    return ""1""","def return_num_1():
+    return 1","Coding"
+"Fix the bug in this Python code:
+def return_num_2():
+    return ""2""","def return_num_2():
+    return 2","Coding"
+"Fix the bug in this Python code:
+def return_num_3():
+    return ""3""","def return_num_3():
+    return 3","Coding"
+"Fix the bug in this Python code:
+def return_num_4():
+    return ""4""","def return_num_4():
+    return 4","Coding"
+"Fix the bug in this Python code:
+def return_num_5():
+    return ""5""","def return_num_5():
+    return 5","Coding"
+"Fix the bug in this Python code:
+def return_num_6():
+    return ""6""","def return_num_6():
+    return 6","Coding"
+"Fix the bug in this Python code:
+def return_num_7():
+    return ""7""","def return_num_7():
+    return 7","Coding"
+"Fix the bug in this Python code:
+def return_num_8():
+    return ""8""","def return_num_8():
+    return 8","Coding"
+"Fix the bug in this Python code:
+def return_num_9():
+    return ""9""","def return_num_9():
+    return 9","Coding"
+"Fix the bug in this Python code:
+def return_num_10():
+    return ""10""","def return_num_10():
+    return 10","Coding"
+"Fix the bug in this Python code:
+def return_num_11():
+    return ""11""","def return_num_11():
+    return 11","Coding"
+"Fix the bug in this Python code:
+def return_num_12():
+    return ""12""","def return_num_12():
+    return 12","Coding"
+"Fix the bug in this Python code:
+def return_num_13():
+    return ""13""","def return_num_13():
+    return 13","Coding"
+"Fix the bug in this Python code:
+def return_num_14():
+    return ""14""","def return_num_14():
+    return 14","Coding"
+"Fix the bug in this Python code:
+def return_num_15():
+    return ""15""","def return_num_15():
+    return 15","Coding"
+"Fix the bug in this Python code:
+def return_num_16():
+    return ""16""","def return_num_16():
+    return 16","Coding"
+"Fix the bug in this Python code:
+def return_num_17():
+    return ""17""","def return_num_17():
+    return 17","Coding"
+"Fix the bug in this Python code:
+def return_num_18():
+    return ""18""","def return_num_18():
+    return 18","Coding"
+"Fix the bug in this Python code:
+def return_num_19():
+    return ""19""","def return_num_19():
+    return 19","Coding"
+"Fix the bug in this Python code:
+def return_num_20():
+    return ""20""","def return_num_20():
+    return 20","Coding"
+"Write a haiku about beautiful nature","Spring blooms in the sun
+Birds are singing in the sky
+Nature is alive","Creative"
+"Write a haiku about beautiful seasons","Spring blooms in the sun
+Birds are singing in the sky
+Peace is all around","Creative"
+"Write a haiku about beautiful animals","Spring blooms in the sun
+Birds are singing in the sky
+World is full of joy","Creative"
+"Write a haiku about beautiful weather","Spring blooms in the sun
+Birds are singing in the sky
+Life is beautiful","Creative"
+"Write a haiku about beautiful space","Spring blooms in the sun
+River flows down to the sea
+Nature is alive","Creative"
+"Write a haiku about wild nature","Spring blooms in the sun
+River flows down to the sea
+Peace is all around","Creative"
+"Write a haiku about wild seasons","Spring blooms in the sun
+River flows down to the sea
+World is full of joy","Creative"
+"Write a haiku about wild animals","Spring blooms in the sun
+River flows down to the sea
+Life is beautiful","Creative"
+"Write a haiku about wild weather","Spring blooms in the sun
+Stars are shining in the night
+Nature is alive","Creative"
+"Write a haiku about wild space","Spring blooms in the sun
+Stars are shining in the night
+Peace is all around","Creative"
+"Write a haiku about calm nature","Spring blooms in the sun
+Stars are shining in the night
+World is full of joy","Creative"
+"Write a haiku about calm seasons","Spring blooms in the sun
+Stars are shining in the night
+Life is beautiful","Creative"
+"Write a haiku about calm animals","Spring blooms in the sun
+Mountains reach up to the clouds
+Nature is alive","Creative"
+"Write a haiku about calm weather","Spring blooms in the sun
+Mountains reach up to the clouds
+Peace is all around","Creative"
+"Write a haiku about calm space","Spring blooms in the sun
+Mountains reach up to the clouds
+World is full of joy","Creative"
+"Write a haiku about stormy nature","Spring blooms in the sun
+Mountains reach up to the clouds
+Life is beautiful","Creative"
+"Write a haiku about stormy seasons","Leaves fall from the tree
+Birds are singing in the sky
+Nature is alive","Creative"
+"Write a haiku about stormy animals","Leaves fall from the tree
+Birds are singing in the sky
+Peace is all around","Creative"
+"Write a haiku about stormy weather","Leaves fall from the tree
+Birds are singing in the sky
+World is full of joy","Creative"
+"Write a haiku about stormy space","Leaves fall from the tree
+Birds are singing in the sky
+Life is beautiful","Creative"
+"Write a haiku about silent nature","Leaves fall from the tree
+River flows down to the sea
+Nature is alive","Creative"
+"Write a haiku about silent seasons","Leaves fall from the tree
+River flows down to the sea
+Peace is all around","Creative"
+"Write a haiku about silent animals","Leaves fall from the tree
+River flows down to the sea
+World is full of joy","Creative"
+"Write a haiku about silent weather","Leaves fall from the tree
+River flows down to the sea
+Life is beautiful","Creative"
+"Write a haiku about silent space","Leaves fall from the tree
+Stars are shining in the night
+Nature is alive","Creative"
+"Write a haiku about ancient nature","Leaves fall from the tree
+Stars are shining in the night
+Peace is all around","Creative"
+"Write a haiku about ancient seasons","Leaves fall from the tree
+Stars are shining in the night
+World is full of joy","Creative"
+"Write a haiku about ancient animals","Leaves fall from the tree
+Stars are shining in the night
+Life is beautiful","Creative"
+"Write a haiku about ancient weather","Leaves fall from the tree
+Mountains reach up to the clouds
+Nature is alive","Creative"
+"Write a haiku about ancient space","Leaves fall from the tree
+Mountains reach up to the clouds
+Peace is all around","Creative"
+"Write a haiku about mystic nature","Leaves fall from the tree
+Mountains reach up to the clouds
+World is full of joy","Creative"
+"Write a haiku about mystic seasons","Leaves fall from the tree
+Mountains reach up to the clouds
+Life is beautiful","Creative"
+"Write a haiku about mystic animals","Snow covers the ground
+Birds are singing in the sky
+Nature is alive","Creative"
+"Write a haiku about mystic weather","Snow covers the ground
+Birds are singing in the sky
+Peace is all around","Creative"
+"Write a haiku about mystic space","Snow covers the ground
+Birds are singing in the sky
+World is full of joy","Creative"
+"Write a haiku about dark nature","Snow covers the ground
+Birds are singing in the sky
+Life is beautiful","Creative"
+"Write a haiku about dark seasons","Snow covers the ground
+River flows down to the sea
+Nature is alive","Creative"
+"Write a haiku about dark animals","Snow covers the ground
+River flows down to the sea
+Peace is all around","Creative"
+"Write a haiku about dark weather","Snow covers the ground
+River flows down to the sea
+World is full of joy","Creative"
+"Write a haiku about dark space","Snow covers the ground
+River flows down to the sea
+Life is beautiful","Creative"
+"Write a haiku about bright nature","Snow covers the ground
+Stars are shining in the night
+Nature is alive","Creative"
+"Write a haiku about bright seasons","Snow covers the ground
+Stars are shining in the night
+Peace is all around","Creative"
+"Write a haiku about bright animals","Snow covers the ground
+Stars are shining in the night
+World is full of joy","Creative"
+"Write a haiku about bright weather","Snow covers the ground
+Stars are shining in the night
+Life is beautiful","Creative"
+"Write a haiku about bright space","Snow covers the ground
+Mountains reach up to the clouds
+Nature is alive","Creative"
+"Write a haiku about cold nature","Snow covers the ground
+Mountains reach up to the clouds
+Peace is all around","Creative"
+"Write a haiku about cold seasons","Snow covers the ground
+Mountains reach up to the clouds
+World is full of joy","Creative"
+"Write a haiku about cold animals","Snow covers the ground
+Mountains reach up to the clouds
+Life is beautiful","Creative"
+"Write a haiku about cold weather","Summer breeze is warm
+Birds are singing in the sky
+Nature is alive","Creative"
+"Write a haiku about cold space","Summer breeze is warm
+Birds are singing in the sky
+Peace is all around","Creative"
+"Write a haiku about warm nature","Summer breeze is warm
+Birds are singing in the sky
+World is full of joy","Creative"
+"Write a haiku about warm seasons","Summer breeze is warm
+Birds are singing in the sky
+Life is beautiful","Creative"
+"Write a haiku about warm animals","Summer breeze is warm
+River flows down to the sea
+Nature is alive","Creative"
+"Write a haiku about warm weather","Summer breeze is warm
+River flows down to the sea
+Peace is all around","Creative"
+"Write a haiku about warm space","Summer breeze is warm
+River flows down to the sea
+World is full of joy","Creative"
+"Write a haiku about distant nature","Summer breeze is warm
+River flows down to the sea
+Life is beautiful","Creative"
+"Write a haiku about distant seasons","Summer breeze is warm
+Stars are shining in the night
+Nature is alive","Creative"
+"Write a haiku about distant animals","Summer breeze is warm
+Stars are shining in the night
+Peace is all around","Creative"
+"Write a haiku about distant weather","Summer breeze is warm
+Stars are shining in the night
+World is full of joy","Creative"
+"Write a haiku about distant space","Summer breeze is warm
+Stars are shining in the night
+Life is beautiful","Creative"

@@ -1,0 +1,10 @@
+prompt,expected_output,llm_output,model_name,score
+explaine cloud computing,"Cloud computing is the on-demand delivery of IT resources—servers, storage, databases, and software—over the internet with pay-as-you-go pricing. ","Cloud computing refers to the delivery of different services through the internet as a utilities rather than having local infrastructure or hardware. These services can include tools, applications, and information storage systems that are accessible from anywhere at any time via web-based platforms using subscription models often known for their scalability, reliability, and cost efficiency compared to traditional IT resources management.
+
+Cloud computing involves the use of remote servers hosted on data centers to store, manage, and process information, rather than a user' extranet or intranet to locally install software programs and backup data. Users can access cloud services using web browsers without special security training, which simplifies tasks like storage management and website hosting for individuals as well as businesses of all sizes.
+
+The main advantages are cost savings due to the pay-as-you-go model (reducing wasteful capital expenditure), scalability allowing organizations to easily adjust resources in line with demand spikes or drops, elasticity providing access only when needed without maintaining idle capacity during downtimes and flexibility of location as work can be done from anywhere at any time.
+
+However, there are concerns about data security on third-party servers (data breaches), reliance on internet connectivity to ensure seamless service delivery which might not always guarantee uninterrupted services in areas with poor network infrastructure and privacy issues related to collection and usage of personal information by cloud providers.
+
+Despite these concerns, the growth trend towards increasing adoption of Cloud Computing continues due to its many benefits over traditional IT resources management for businesses today.",phi3:mini,86.1258864402771
