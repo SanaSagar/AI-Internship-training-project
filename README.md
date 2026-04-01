@@ -227,6 +227,9 @@ Contributions are welcome! Please open an issue first to discuss what you'd like
 
 ---
 
+## 🎥 Project Demo Video
+[Click here to watch the demo](https://drive.google.com/file/d/1_SNuM0YmNr3a5YBYIJ0PFjm0zU6t_uTy/view?usp=drive_link)
+
 
 <div align="center">
   <sub>Built with Streamlit + Ollama · 100% local · 100% private</sub>
