@@ -17,6 +17,9 @@
 
 ---
 
+## 🎥 Project Demo Video
+[Click here to watch the demo](https://drive.google.com/file/d/1_SNuM0YmNr3a5YBYIJ0PFjm0zU6t_uTy/view?usp=drive_link)
+
 ## 📌 Overview
 
 The **LLM Prompt Evaluator & Optimizer** is an open-source dashboard built for AI engineers, developers, and researchers who need to **measure** prompt quality — not just guess at it.
@@ -226,9 +229,6 @@ Contributions are welcome! Please open an issue first to discuss what you'd like
 5. Open a Pull Request
 
 ---
-
-## 🎥 Project Demo Video
-[Click here to watch the demo](https://drive.google.com/file/d/1_SNuM0YmNr3a5YBYIJ0PFjm0zU6t_uTy/view?usp=drive_link)
 
 
 <div align="center">
